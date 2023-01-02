@@ -66,5 +66,16 @@
     <ClCompile Include="FuncParameter2.c">
       <Filter>소스 파일\01/02</Filter>
     </ClCompile>
+    <ClCompile Include="funcParamater.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncPointer.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sizeofArray.c">
+      <Filter>소스 파일\01/02</Filter>
+    </None>
   </ItemGroup>
 </Project>
