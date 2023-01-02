@@ -21,5 +21,14 @@
     <ClCompile Include="TotalAvg.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="charTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strFunc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strIndex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
