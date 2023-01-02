@@ -72,6 +72,9 @@
     <ClCompile Include="FuncPointer.c">
       <Filter>소스 파일\01/02</Filter>
     </ClCompile>
+    <ClCompile Include="FuncPointer2.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="sizeofArray.c">
