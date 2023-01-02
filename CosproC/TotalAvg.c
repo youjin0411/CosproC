@@ -6,6 +6,7 @@ void main() {
 	int i, sum;  //반복 할 수, 합
 	double avg; //실수형인 평균
 	int len = sizeof(arr) / sizeof(int); //배열의 길이
+	//int len = sizeof(arr) / sizeof(arr[0]);
 	//입력
 	for (i = 0; i < len; i++) arr[i] = rand() % 101; // 랜덤으로 0 ~ (101-1)까지의 숫자를 arr[i] 위치에 대입한다.
 	//요소들의 총합 구하기

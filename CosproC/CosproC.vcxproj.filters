@@ -13,49 +13,58 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\01/02">
+      <UniqueIdentifier>{a6fbf160-8eaa-470d-963c-76e78af509ff}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arrays01.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TotalAvg.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\01/02</Filter>
     </ClCompile>
     <ClCompile Include="charTest.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strFunc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strIndex.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="malloc1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\01/02</Filter>
     </ClCompile>
     <ClCompile Include="Func1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\01/02</Filter>
     </ClCompile>
     <ClCompile Include="Func2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc1.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer2.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer3.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer4.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer5.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="strFunc.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="strIndex.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="TotalAvg.c">
+      <Filter>소스 파일\01/02</Filter>
     </ClCompile>
     <ClCompile Include="Func3.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncParamater1.c">
+      <Filter>소스 파일\01/02</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncParameter2.c">
+      <Filter>소스 파일\01/02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
