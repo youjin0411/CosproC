@@ -48,5 +48,14 @@
     <ClCompile Include="malloc1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Func1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Func3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
