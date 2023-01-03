@@ -111,6 +111,12 @@
     <ClCompile Include="duplicate_character.c">
       <Filter>소스 파일\01/03</Filter>
     </ClCompile>
+    <ClCompile Include="certainValueLess.c">
+      <Filter>소스 파일\01/03</Filter>
+    </ClCompile>
+    <ClCompile Include="NtoMfromtotal.c">
+      <Filter>소스 파일\01/03</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="sizeofArray.c">
