@@ -168,6 +168,21 @@
     <ClCompile Include="test3_3.c">
       <Filter>소스 파일\01/04\모의고사 3회</Filter>
     </ClCompile>
+    <ClCompile Include="test3_4.c">
+      <Filter>소스 파일\01/04\모의고사 3회</Filter>
+    </ClCompile>
+    <ClCompile Include="test3_5.c">
+      <Filter>소스 파일\01/04\모의고사 3회</Filter>
+    </ClCompile>
+    <ClCompile Include="test3.c">
+      <Filter>소스 파일\01/04\모의고사1회</Filter>
+    </ClCompile>
+    <ClCompile Include="test4.c">
+      <Filter>소스 파일\01/04\모의고사1회</Filter>
+    </ClCompile>
+    <ClCompile Include="test5.c">
+      <Filter>소스 파일\01/04\모의고사1회</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="sizeofArray.c">
