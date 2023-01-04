@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\01/03">
       <UniqueIdentifier>{1d220511-e079-4d97-a85d-22a93df57555}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\01/04">
+      <UniqueIdentifier>{3e35b68e-9092-4443-a1e8-452fb44999a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arrays01.c">
@@ -122,6 +125,27 @@
     </ClCompile>
     <ClCompile Include="visitorCounterDiffer.c">
       <Filter>소스 파일\01/03</Filter>
+    </ClCompile>
+    <ClCompile Include="solution14.c">
+      <Filter>소스 파일\01/04</Filter>
+    </ClCompile>
+    <ClCompile Include="solution15.c">
+      <Filter>소스 파일\01/04</Filter>
+    </ClCompile>
+    <ClCompile Include="solution16.c">
+      <Filter>소스 파일\01/04</Filter>
+    </ClCompile>
+    <ClCompile Include="solution17.c">
+      <Filter>소스 파일\01/04</Filter>
+    </ClCompile>
+    <ClCompile Include="solution18.c">
+      <Filter>소스 파일\01/04</Filter>
+    </ClCompile>
+    <ClCompile Include="solution19.c">
+      <Filter>소스 파일\01/04</Filter>
+    </ClCompile>
+    <ClCompile Include="solution20.c">
+      <Filter>소스 파일\01/04</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
