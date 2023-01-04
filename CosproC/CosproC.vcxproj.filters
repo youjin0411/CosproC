@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\01/04\모의고사 3회">
       <UniqueIdentifier>{187059b3-60dc-4ed4-9728-2ff8e93ec47f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\01/04\모의고사 2회">
+      <UniqueIdentifier>{c5e49f13-a6b1-4bfb-b212-100991b36bbd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arrays01.c">
@@ -182,6 +185,27 @@
     </ClCompile>
     <ClCompile Include="test5.c">
       <Filter>소스 파일\01/04\모의고사1회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2_1.c">
+      <Filter>소스 파일\01/04\모의고사 2회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2_2.c">
+      <Filter>소스 파일\01/04\모의고사 2회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2_3.c">
+      <Filter>소스 파일\01/04\모의고사 2회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2_4.c">
+      <Filter>소스 파일\01/04\모의고사 2회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2_5.c">
+      <Filter>소스 파일\01/04\모의고사 2회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2_6.c">
+      <Filter>소스 파일\01/04\모의고사 2회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2_7.c">
+      <Filter>소스 파일\01/04\모의고사 2회</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
