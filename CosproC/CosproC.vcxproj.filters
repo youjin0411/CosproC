@@ -28,6 +28,12 @@
     <Filter Include="소스 파일\01/04">
       <UniqueIdentifier>{3e35b68e-9092-4443-a1e8-452fb44999a3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\01/04\모의고사1회">
+      <UniqueIdentifier>{df063965-a24d-41b0-94da-97a65f5b533d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01/04\모의고사 3회">
+      <UniqueIdentifier>{187059b3-60dc-4ed4-9728-2ff8e93ec47f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arrays01.c">
@@ -146,6 +152,21 @@
     </ClCompile>
     <ClCompile Include="solution20.c">
       <Filter>소스 파일\01/04</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.c">
+      <Filter>소스 파일\01/04\모의고사1회</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.c">
+      <Filter>소스 파일\01/04\모의고사1회</Filter>
+    </ClCompile>
+    <ClCompile Include="test3_1.c">
+      <Filter>소스 파일\01/04\모의고사 3회</Filter>
+    </ClCompile>
+    <ClCompile Include="test3_2.c">
+      <Filter>소스 파일\01/04\모의고사 3회</Filter>
+    </ClCompile>
+    <ClCompile Include="test3_3.c">
+      <Filter>소스 파일\01/04\모의고사 3회</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
