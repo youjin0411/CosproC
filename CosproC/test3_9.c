@@ -22,10 +22,10 @@ int* solution(int scores[][4], int scores_len) {
 int main()
 {
 	int score[][4] = {  //[][4]는 한 행 안에 들어있는 숫자의 개수 
-		{0, 1, 0, 0},
-		{0,  0, 0, 1},
-		{1, 1, 0, 1},
-		{1, 0, 0, 0}
+		{-1, 1, 0, 0},
+		{0,  -1, 0, 1},
+		{1, 1, -1, 1},
+		{1, 0, 0, -1}
 	};
 	int scores_len = 4; //행의 길이
 	int* result = solution(score, scores_len);
