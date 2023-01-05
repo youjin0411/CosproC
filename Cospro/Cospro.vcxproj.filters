@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\모의고사 4회">
       <UniqueIdentifier>{45dfb2d5-e87b-4877-878d-a657e38ef41b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\모의고사 5회">
+      <UniqueIdentifier>{fba71826-4c15-4d74-8353-2f1b992f1c1c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\CosproC\test4_1.c">
@@ -35,6 +38,27 @@
     </ClCompile>
     <ClCompile Include="test4_6.c">
       <Filter>소스 파일\모의고사 4회</Filter>
+    </ClCompile>
+    <ClCompile Include="test4_7.c">
+      <Filter>소스 파일\모의고사 4회</Filter>
+    </ClCompile>
+    <ClCompile Include="test4_8.c">
+      <Filter>소스 파일\모의고사 4회</Filter>
+    </ClCompile>
+    <ClCompile Include="test4_9.c">
+      <Filter>소스 파일\모의고사 4회</Filter>
+    </ClCompile>
+    <ClCompile Include="test4_10.c">
+      <Filter>소스 파일\모의고사 4회</Filter>
+    </ClCompile>
+    <ClCompile Include="test5_1.c">
+      <Filter>소스 파일\모의고사 5회</Filter>
+    </ClCompile>
+    <ClCompile Include="test5_2.c">
+      <Filter>소스 파일\모의고사 5회</Filter>
+    </ClCompile>
+    <ClCompile Include="test5_3.c">
+      <Filter>소스 파일\모의고사 5회</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
