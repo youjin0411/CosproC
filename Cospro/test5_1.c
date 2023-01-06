@@ -3,14 +3,22 @@
 #include<string.h>
 int solution(int a[], int N) {
 	int answer = 0;
-	int total = 0;
-	//완충 시 최대 40km까지 이동할 수 있다. 
+	//int total = 0;
+	////완충 시 최대 40km까지 이동할 수 있다. 
+	//for (int i = 0; i < N; i++) {
+	//	total += a[i];
+	//	if (total > 40) {
+	//		answer++;
+	//		total = total - 40;
+	//	}
+	//}
+	int energy = 40;
 	for (int i = 0; i < N; i++) {
-		total += a[i];
-		if (total > 40) {
+		if (a[i] > energy) {
+			energy = 40;
 			answer++;
-			total = total - 40;
 		}
+		energy -= a[i];
 	}
 	return answer;
 }
