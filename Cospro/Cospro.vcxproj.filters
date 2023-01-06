@@ -60,5 +60,11 @@
     <ClCompile Include="test5_3.c">
       <Filter>소스 파일\모의고사 5회</Filter>
     </ClCompile>
+    <ClCompile Include="test5_4.c">
+      <Filter>소스 파일\모의고사 5회</Filter>
+    </ClCompile>
+    <ClCompile Include="programmerstest.c">
+      <Filter>소스 파일\모의고사 4회</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

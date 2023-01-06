@@ -18,7 +18,7 @@ char* solution(char string[]) {
 }
 
 int main() {
-	char string[] = "abs";
+	char string[] = "41234";
 	char* result = solution(string);
 	for (int i = 0; i < result[i] != 0; i++) {
 		printf("%c", result[i]);

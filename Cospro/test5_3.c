@@ -13,7 +13,8 @@ int solution(int N, int orders[], int orders_len) {
 	int* material = (int*)malloc(sizeof(int) * N); //materia는 목재의 수만큼 만들 수 있는 것들 
 	int k = 0;
 	int price = 0;
-	for (int i = 0; i < N; i++) material[i] = 0;
+	//길이가 8인 목재만 취급함. 즉, 초기화 8을 해줌
+	for (int i = 0; i < N; i++) material[i] = 8;
 	for (int i = 0; i < orders_len; i++) {
 		k = func_a(material, N, orders[i]);
 		if (k >= 0) {
